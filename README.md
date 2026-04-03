@@ -96,14 +96,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TanishqBhosle/TanishqBhosle/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 
 ## 🌐 Connect With Me
 
@@ -121,5 +113,5 @@
 ## 💡 Developer Mindset
 
 <p align="center">
-  <i>"Build. Learn. Improve."</i>
+  <b>"Build. Learn. Improve."</b>
 </p>
