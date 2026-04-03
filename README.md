@@ -32,7 +32,7 @@
 🔹 Full-stack MERN architecture  
 </p>
 
-👉 💻 Code: https://github.com/TanishqBhosle  
+💻 Repo: https://github.com/TanishqBhosle  
 ---
 
 ### 💰 GroWise – Finance Dashboard
@@ -42,7 +42,7 @@
 🔹 Clean UI using modern frontend tools  
 </p>
 
-👉 💻 Code: https://github.com/TanishqBhosle  
+💻Repo: https://github.com/TanishqBhosle  
 
 ---
 
@@ -53,7 +53,7 @@
 🔹 Built using modern full-stack architecture  
 </p>
 
-👉 💻 Code: https://github.com/TanishqBhosle  
+💻 Repo: https://github.com/TanishqBhosle  
 
 ---
 
@@ -64,7 +64,7 @@
 🔹 Retrieval-based insights system  
 </p>
 
-👉 💻 Code: https://github.com/TanishqBhosle  
+💻 Repo: https://github.com/TanishqBhosle  
 
 ---
 
@@ -75,16 +75,9 @@
 🔹 Built for real academic use  
 </p>
 
-👉 💻 Code: https://github.com/TanishqBhosle  
+💻 Repo: https://github.com/TanishqBhosle  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanishqBhosle&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqBhosle&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
